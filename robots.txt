@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://wawasan4d.fairmlbook.org/sitemap.xml
